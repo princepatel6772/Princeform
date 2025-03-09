@@ -1,12 +1,4 @@
-<html>
 
-<head>
-
-<title> Registration Form </title>
-
-</head>
-
-<body bgcolor = "aqua">
 
 <h1> <center> Registration Form </center> </h1>
 
